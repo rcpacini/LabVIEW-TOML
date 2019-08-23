@@ -1,2 +1,8 @@
-[a]
-x."y 2"=true
+[a."b.c"]
+x."y\n2"=false
+x.float=3.1415E-5
+x.int=-1234
+x.date=2019-08-22T23:25:44.631475
+"-x"."y\n2"=false
+x.uint=5678
+x.str="hello world"
