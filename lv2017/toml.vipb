@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-08-25 18:40:20" Modified_Date="2019-08-25 22:40:08" Creator="rcpac" Comments="" ID="1d6403bd792e4a0ff9090c1029f076f9">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-08-25 18:40:20" Modified_Date="2019-08-25 23:06:55" Creator="rcpac" Comments="" ID="6be50441141386a3eb7716f102a72904">
   <Library_General_Settings>
     <Package_File_Name>rpacini_toml</Package_File_Name>
     <Library_Version>17.0.0.2</Library_Version>
@@ -427,7 +427,7 @@ Because TOML is explicitly intended as a configuration file format, parsing it i
         <Path>examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E1BD13F10FF2CC38D96B43B28FAB0AD7</GUID>
+      <GUID>0D03B47659ACA452C91813F9D28131F0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -476,7 +476,7 @@ Because TOML is explicitly intended as a configuration file format, parsing it i
         <Path>examples\toml_example_datatypes.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>08530198BC64554387F417C82343100A</GUID>
+      <GUID>E6213C9DC7C325278ADADB9076900DF7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -665,7 +665,7 @@ Because TOML is explicitly intended as a configuration file format, parsing it i
         <Path>toml\fg_find_key.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8D353A74B06E24738E4FA8DE44499DD6</GUID>
+      <GUID>0E4EDDA44D85DEFBFEAD0F880793054E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
